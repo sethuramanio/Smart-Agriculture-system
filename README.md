@@ -1,5 +1,6 @@
 # Smart-Agriculture-system
 
+This repository hosts the implementation of a smart agriculture system to help farmers and improve crops by identifying potential insect/pest attacks and monitoring the crop quality. The entire implementation is done leveraging a serverless architecture to ensure better scalablity and quick response. 
 
 Serverless architecture is the future of cloud computing without having to worry about managing and deploying severs in the field of iot. 
 
